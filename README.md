@@ -31,10 +31,12 @@
 
 </details>
 
-Hey, Alberto here! Currently _interested_ 😍 and _actively contributing_ 👨‍💻 in the fields of:
+---
+
+Hey there, Alberto here! I'm currently _interested_ 😍 and _actively contributing_ 👨‍💻 in the fields of:
 
 - 🧱 **Native & Web Monorepos** 
 - 🧪 **Developer Experience Tools**
 - ☎️ **Termux Setups** 
 
-You can contact me on [Discord](https://discordapp.com/users/653322028824133632) anytime you want! See you around 👋
+Feel free to reach out to me on [Discord](https://discordapp.com/users/653322028824133632) anytime you want! See you around! 👋
