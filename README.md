@@ -39,4 +39,4 @@ Hey there, Alberto here! I'm currently _interested_ 😍 and _actively contribut
 - 🧪 **Developer Experience Tools**
 - ☎️ **Termux Setups** 
 
-Feel free to reach out to me on [Discord](https://discordapp.com/users/653322028824133632) anytime you want! See you around! 👋
+Feel free to reach out to me on **[Discord](https://discordapp.com/users/653322028824133632)** anytime you want! See you around! 👋
