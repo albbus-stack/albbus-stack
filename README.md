@@ -40,3 +40,7 @@ Hey there, Alberto here! I'm currently _interested_ 😍 and _actively contribut
 - ☎️ **Termux Setups** 
 
 Feel free to reach out to me on **[Discord](https://discordapp.com/users/653322028824133632)** anytime you want! See you around! 👋
+
+---
+
+[![An image of @albbusstack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/albbusstack)](https://holopin.io/@albbusstack)
