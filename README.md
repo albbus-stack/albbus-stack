@@ -37,7 +37,7 @@ Hey there, Alberto here! I'm currently _interested_ 😍 and _actively contribut
 
 - 🧱 **Native & Web Monorepos** 
 - 🧪 **Developer Experience Tools**
-- ☎️ **Termux Setups** 
+- ☎️ **Termux Configs** 
 
 Feel free to reach out to me on **[Discord](https://discordapp.com/users/653322028824133632)** anytime you want! See you around! 👋
 
