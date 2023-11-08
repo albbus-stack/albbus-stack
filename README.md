@@ -35,7 +35,9 @@
 
 Hey there, Alberto here! I'm currently _interested_ 😍 and _actively contributing_ 👨‍💻 in the fields of:
 
-- 🧱 **Native & Web Monorepos** 
+- 🧱 **Native & Web Monorepos**
+
+    > ♥ _featured in [T3 Collection](https://create.t3.gg/en/t3-collection) & [Cloudflare Community Projects](https://developers.cloudflare.com/d1/platform/community-projects/#t4-app)_ ♥
 - 🧪 **Developer Experience Tools**
 - ☎️ **Termux Configs** 
 
