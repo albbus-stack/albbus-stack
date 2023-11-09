@@ -36,7 +36,7 @@
 Hey there, Alberto here! I'm currently _interested_ 😍 and _actively contributing_ 👨‍💻 in the fields of:
 
 - 🧱 **Native & Web Monorepos**
-   > ♥ _**create-universal-app** featured in [T3 Collection](https://create.t3.gg/en/t3-collection) & **create-t4-app** in [Cloudflare Community Projects](https://developers.cloudflare.com/d1/platform/community-projects/#t4-app)_ ♥
+   > ♥ _**create-t3-universal-app** featured in [T3 Collection](https://create.t3.gg/en/t3-collection) & **create-t4-app** in [Cloudflare Community Projects](https://developers.cloudflare.com/d1/platform/community-projects/#t4-app)_ ♥
 - 🧪 **Developer Experience Tools**
 
     <a href="https://marketplace.visualstudio.com/items?itemName=albbus.t4-app-tools">
