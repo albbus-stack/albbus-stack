@@ -1,4 +1,4 @@
-<details>
+<details open>
 <summary><b>Programming Languages</b></summary>
 <br>
 
@@ -11,7 +11,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>Operating Systems</b></summary>
 <br>
 
@@ -22,7 +22,7 @@
 </details>
 
 
-<details>
+<details open>
 <summary><b>Languages</b></summary>
 <br>
 
