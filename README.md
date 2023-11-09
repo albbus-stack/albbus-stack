@@ -46,8 +46,12 @@ Hey there, Alberto here! I'm currently _interested_ 😍 and _actively contribut
         <img src="https://img.shields.io/visual-studio-marketplace/i/albbus-stack.t3-cua-tools?logo=visual-studio-code&style=for-the-badge&color=0078D7&label=t3-cua-tools" alt="VSCode Extension Installs">
     </a>
     
-- ☎️ **Termux Configs** 
+- 💻 **Web Development Templates**
 
+    <a href="https://github.com/albbus-stack/kit-stack">
+        <img src="https://img.shields.io/badge/kit%20stack-white?logo=svelte&style=for-the-badge&color=FF3F00&logoColor=white" alt="kit-stack badge">
+    </a>
+    
 Feel free to reach out to me on **[Discord](https://discordapp.com/users/653322028824133632)** anytime you want! See you around! 👋
 
 ---
