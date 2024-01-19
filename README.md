@@ -33,21 +33,15 @@
 
 ---
 
-Hey there, Alberto here! I'm currently _interested_ 😍 and _actively contributing_ 👨‍💻 in the fields of:
+Hey there, **Alberto** here! I'm currently _interested_ 😍 and _actively contributing_ 👨‍💻 in the fields of:
 
 - 🧱 **Native & Web Monorepos**
-   > ♥ _**create-t3-universal-app (CUA)** featured in [T3 Collection](https://create.t3.gg/en/t3-collection) & **create-t4-app** in [Cloudflare Community Projects](https://developers.cloudflare.com/d1/platform/community-projects/#t4-app)_ ♥
+   > ♥ _**[create-t3-universal-app (CUA)](https://github.com/chen-rn/CUA)** featured in **T3 Collection** & **[create-t4-app](https://github.com/timothymiller/t4-app)** featured in **Cloudflare Community Projects**_ ♥
 - 🧪 **Developer Experience Tools**
-
-    <a href="https://marketplace.visualstudio.com/items?itemName=albbus.t4-app-tools">
-        <img src="https://img.shields.io/visual-studio-marketplace/i/albbus.t4-app-tools?logo=visual-studio-code&style=for-the-badge&color=0078D7&label=t4-app-tools" alt="VSCode Extension Installs">
-    </a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=albbus-stack.t3-cua-tools">
-        <img src="https://img.shields.io/visual-studio-marketplace/i/albbus-stack.t3-cua-tools?logo=visual-studio-code&style=for-the-badge&color=0078D7&label=t3-cua-tools" alt="VSCode Extension Installs">
-    </a>&nbsp;
-    <a href="https://www.npmjs.com/package/create-t3-universal-app">
-        <img src="https://img.shields.io/npm/dy/create-t3-universal-app?color=red&label=create-t3-universal-app&logo=npm&logoColor=white&style=for-the-badge" alt="NPM Extension Installs">
-    </a>
+  
+    [![VSCode Extension Installs](https://img.shields.io/visual-studio-marketplace/i/albbus.t4-app-tools?logo=visual-studio-code&style=for-the-badge&color=0078D7&label=t4-app-tools)](https://marketplace.visualstudio.com/items?itemName=albbus.t4-app-tools)&nbsp;
+    [![VSCode Extension Installs](https://img.shields.io/visual-studio-marketplace/i/albbus-stack.t3-cua-tools?logo=visual-studio-code&style=for-the-badge&color=0078D7&label=t3-cua-tools)](https://marketplace.visualstudio.com/items?itemName=albbus-stack.t3-cua-tools)&nbsp;
+    [![NPM Extension Installs](https://img.shields.io/npm/dy/create-t3-universal-app?color=red&label=create-t3-universal-app&logo=npm&logoColor=white&style=for-the-badge)](https://www.npmjs.com/package/create-t3-universal-app)
 
 - 💻 **Web Development Templates**
 
