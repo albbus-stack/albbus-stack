@@ -55,3 +55,11 @@ Feel free to reach out to me on **[Discord](https://discordapp.com/users/6533220
 ---
 
 [![An image of @albbusstack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/albbusstack)](https://holopin.io/@albbusstack)
+
+---
+
+<p align="center">
+   <a href="https://www.codewars.com/users/albbus-stack">
+      <img src="https://www.codewars.com/users/albbus-stack/badges/large" />
+   </a>
+</p>
