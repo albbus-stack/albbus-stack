@@ -37,17 +37,23 @@
 Hey there, **Alberto** here! I'm currently _interested_ 😍 and _actively contributing_ 👨‍💻 in the fields of:
 
 - 🧱 **Native & Web Monorepos**
+  
    > ♥ _**[create-t3-universal-app (CUA)](https://github.com/chen-rn/CUA)** featured in **T3 Collection** & **[create-t4-app](https://github.com/timothymiller/t4-app)** featured in **Cloudflare Community Projects**_ ♥
+
+   <a href="https://github.com/albbus-stack/t5.rs">
+        <img src="https://img.shields.io/badge/t5.rs-white?logo=rust&style=for-the-badge&color=f75208&logoColor=white" alt="kit-stack badge">
+   </a>
+
 - 🧪 **Developer Experience Tools**
   
     [![VSCode Extension Installs](https://img.shields.io/visual-studio-marketplace/i/albbus.t4-app-tools?logo=visual-studio-code&style=for-the-badge&color=0078D7&label=t4-app-tools)](https://marketplace.visualstudio.com/items?itemName=albbus.t4-app-tools)&nbsp;
     [![VSCode Extension Installs](https://img.shields.io/visual-studio-marketplace/i/albbus-stack.t3-cua-tools?logo=visual-studio-code&style=for-the-badge&color=0078D7&label=t3-cua-tools)](https://marketplace.visualstudio.com/items?itemName=albbus-stack.t3-cua-tools)&nbsp;
-    [![NPM Extension Installs](https://img.shields.io/npm/dy/create-t3-universal-app?color=red&label=create-t3-universal-app&logo=npm&logoColor=white&style=for-the-badge)](https://www.npmjs.com/package/create-t3-universal-app)
+    [![NPM Extension Installs](https://img.shields.io/npm/dy/create-t3-universal-app?color=f75208&label=create-t3-universal-app&logo=npm&logoColor=white&style=for-the-badge)](https://www.npmjs.com/package/create-t3-universal-app)
 
 - 💻 **Web Development Templates**
 
     <a href="https://github.com/albbus-stack/kit-stack">
-        <img src="https://img.shields.io/badge/kit%20stack-white?logo=svelte&style=for-the-badge&color=FF3F00&logoColor=white" alt="kit-stack badge">
+        <img src="https://img.shields.io/badge/kit%20stack-white?logo=svelte&style=for-the-badge&color=f75208&logoColor=white" alt="kit-stack badge">
     </a>
     
 Feel free to reach out to me on **[Discord](https://discordapp.com/users/653322028824133632)** anytime you want! See you around! 👋
