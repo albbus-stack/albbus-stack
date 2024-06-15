@@ -38,17 +38,23 @@
 Hey there, **Alberto** here! I'm currently _interested_ 😍 and _actively contributing_ 👨‍💻 in the fields of:
 
 - 🧱 **Native & Web Monorepos**
-  
-   > ♥ _**[create-t3-universal-app (CUA)](https://github.com/chen-rn/CUA)** featured in **T3 Collection** & **[create-t4-app](https://github.com/timothymiller/t4-app)** featured in **Cloudflare Community Projects**_ ♥
 
-   <a href="https://github.com/albbus-stack/t5.rs">
-        <img src="https://img.shields.io/badge/t5.rs-white?logo=rust&style=for-the-badge&color=f75208&logoColor=white" alt="kit-stack badge">
-   </a>
+  <a href="https://github.com/albbus-stack/t5.rs">
+    <img src="https://img.shields.io/badge/t5.rs-white?logo=rust&style=for-the-badge&color=f75208&logoColor=white" alt="kit-stack badge"></a>
+    <span>&nbsp;featured in <b><a href="https://dioxuslabs.com/awesome">Dioxus Awesome</a></b></span> <img src="https://github.com/albbus-stack/albbus-stack/assets/57916483/67545b9d-5f40-49df-bce1-847380ca3a63" alt="spacer" height=30> <br/>
+
+  <a href="https://github.com/timothymiller/t4-app">
+    <img src="https://img.shields.io/badge/create--t4--app-white?logo=typescript&style=for-the-badge&color=0189bf&logoColor=white" alt="create-t4-app badge"></a>
+    <span>&nbsp;featured in <b><a href="https://blog.cloudflare.com/2024-community-update#meet-cohort-3-of-the-workers-launchpad">Cloudflare Community Projects</a></b></span> <img src="https://github.com/albbus-stack/albbus-stack/assets/57916483/67545b9d-5f40-49df-bce1-847380ca3a63" alt="spacer" height=40> <br/>
+
+  <a href="https://github.com/chen-rn/CUA">
+    <img src="https://img.shields.io/badge/create--t3--universal--app-white?logo=typescript&style=for-the-badge&color=0189bf&logoColor=white" alt="create-t3-universal-app badge"></a>
+    <span>&nbsp;featured in <b><a href="https://create.t3.gg/en/t3-collection">T3 Collection</a></b></span> <img src="https://github.com/albbus-stack/albbus-stack/assets/57916483/67545b9d-5f40-49df-bce1-847380ca3a63" alt="spacer" height=40>
 
 - 🧪 **Developer Experience Tools**
   
-    [![VSCode Extension Installs](https://img.shields.io/visual-studio-marketplace/i/albbus.t4-app-tools?logo=visual-studio-code&style=for-the-badge&color=0078D7&label=t4-app-tools)](https://marketplace.visualstudio.com/items?itemName=albbus.t4-app-tools)&nbsp;
-    [![VSCode Extension Installs](https://img.shields.io/visual-studio-marketplace/i/albbus-stack.t3-cua-tools?logo=visual-studio-code&style=for-the-badge&color=0078D7&label=t3-cua-tools)](https://marketplace.visualstudio.com/items?itemName=albbus-stack.t3-cua-tools)&nbsp;
+    [![VSCode Extension Installs](https://img.shields.io/visual-studio-marketplace/i/albbus.t4-app-tools?logo=visual-studio-code&style=for-the-badge&color=0189bf&label=t4-app-tools)](https://marketplace.visualstudio.com/items?itemName=albbus.t4-app-tools)&nbsp;
+    [![VSCode Extension Installs](https://img.shields.io/visual-studio-marketplace/i/albbus-stack.t3-cua-tools?logo=visual-studio-code&style=for-the-badge&color=0189bf&label=t3-cua-tools)](https://marketplace.visualstudio.com/items?itemName=albbus-stack.t3-cua-tools)&nbsp;
     [![NPM Extension Installs](https://img.shields.io/npm/dy/create-t3-universal-app?color=f75208&label=create-t3-universal-app&logo=npm&logoColor=white&style=for-the-badge)](https://www.npmjs.com/package/create-t3-universal-app)
 
 - 💻 **Web Development Templates**
