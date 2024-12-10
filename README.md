@@ -47,7 +47,7 @@ Hey there, **Alberto** here! I'm currently _interested_ 😍 and _actively contr
     <span>&nbsp;featured in <b><a href="https://blog.cloudflare.com/2024-community-update#meet-cohort-3-of-the-workers-launchpad">Cloudflare Community Projects</a></b></span> <img src="https://github.com/albbus-stack/albbus-stack/assets/57916483/67545b9d-5f40-49df-bce1-847380ca3a63" alt="spacer" height=40 width=10> <br/>
   <a href="https://github.com/chen-rn/CUA">
     <img src="https://img.shields.io/badge/create--t3--universal--app-white?logo=typescript&style=for-the-badge&color=0189bf&logoColor=white" alt="create-t3-universal-app badge"></a>
-    <span>&nbsp;featured in <b><a href="https://create.t3.gg/en/t3-collection">T3 Collection</a></b></span> <img src="https://github.com/albbus-stack/albbus-stack/assets/57916483/67545b9d-5f40-49df-bce1-847380ca3a63" alt="spacer" height=40 width=10>
+    <span>&nbsp;featured in <b><a href="https://create.t3.gg/en/t3-collection#:~:text=cua">T3 Collection</a></b></span> <img src="https://github.com/albbus-stack/albbus-stack/assets/57916483/67545b9d-5f40-49df-bce1-847380ca3a63" alt="spacer" height=40 width=10>
 
 - 🧪 **Developer Experience Tools**
   
